@@ -38,7 +38,7 @@ search:
   enabled: true
   heading_level: 3
   rel_url: false
-  button: true
+  button: false
   tokenizer_separator: /[\s/]+/
   heading_anchors: true
 
