@@ -7,6 +7,7 @@ url: https://just-the-docs.github.io
 # customize 
 color_scheme: dark
 
+
 footer_content: "_includes/footer_custom.html"
 
 math: katex
